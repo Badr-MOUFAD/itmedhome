@@ -19,18 +19,18 @@ export default function Home() {
       
 
         <div className={styles.grid}>
-          <a href="http://linge.allupper.com" className={styles.card}>
+          <a href="https://itmedlinge-pic51w0h2-aymanedroussi.vercel.app/auth" className={styles.card}>
             <h2>CLEANLINE &rarr;</h2>
             <p>une application  pour organiser et sécuriser le servide de linge .</p>
           </a>
 
-          <a href="http://dpi.allupper.com" className={styles.card}>
+          <a href="https://dpi-gzld8mam2-tahafi2001.vercel.app/auth" className={styles.card}>
             <h2>DOSSIER PATIENT &rarr;</h2>
             <p>une application  pour gérer les patients au sein d un hôpital.</p>
           </a>
 
           <a
-            href="#"
+            href="https://cuisineitmed-eniwzdba6-tahafi2001.vercel.app/"
             className={styles.card}
           >
             <h2>CUISINE &rarr;</h2>
@@ -38,7 +38,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
+            href="https://pharmacie-10.herokuapp.com/"
             className={styles.card}
           >
             <h2>PHARMACIE &rarr;</h2>
@@ -47,7 +47,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href="#"
+            href="https://gestion-des-dechets-next.vercel.app/auth"
             className={styles.card}
           >
             <h2>Déchet &rarr;</h2>
