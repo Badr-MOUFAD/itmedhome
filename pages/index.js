@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://itmedlinge-pic51w0h2-aymanedroussi.vercel.app/auth" className={styles.card}>
-            <h2>CLEANLINE &rarr;</h2>
+            <h2>LINGES &rarr;</h2>
             <p>une application  pour organiser et sécuriser le servide de linge .</p>
           </a>
 
@@ -50,7 +50,7 @@ export default function Home() {
             href="https://gestion-des-dechets-next.vercel.app/auth"
             className={styles.card}
           >
-            <h2>Déchet &rarr;</h2>
+            <h2>DÉCHETS &rarr;</h2>
             <p>
             une application  pour organiser et sécuriser le servide de déchet .
             </p>
